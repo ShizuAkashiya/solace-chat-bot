@@ -1,4 +1,4 @@
-Website: https://remed-chat-git-main-augusts-projects-cc172296.vercel.app/
+Website: https://solace-chatbot.vercel.app/
 
 # React + Vite
 
